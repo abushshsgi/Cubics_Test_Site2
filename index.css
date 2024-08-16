@@ -1,0 +1,313 @@
+/* ********************* Start Cubix Game Abdurahim with Salohiddin ************** */
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.Img_C{
+    position: absolute;
+    
+}
+header h1{
+    position: relative;
+    color: rgb(255, 255, 255);
+    top: 40px;
+    left: 100px;
+}
+body{
+    /* background-image: url(./cubicwqdqdwq.png); */
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,34,1) 35%, rgba(0,212,255,1) 100%);
+}
+.nav a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    list-style-type: none;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    
+}
+
+.container{
+    /* position: relative; */
+    background-color: rgb(198, 186, 186);
+}
+.nav{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    gap: 80px;
+    left: 400px;
+    position: relative;
+    /* top: 0px; */
+    /* background-color: black; */
+}
+.img_logo{
+    position: relative;
+    left: 600px;
+    width: 550px;
+    height: 700px;
+    bottom: 450px;
+    background-image: url(./bg-a7af210a-ed3a-4dfc-a8a6-9e2999501552.png);
+}
+
+.logo{
+    width: 400px;
+}
+.text{
+    position: relative;
+    top: 114px;
+    left: 100px;
+}
+.text h1{
+    color: white;
+    font-size: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+}
+.text span {
+    color: rgb(223, 229, 229);
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+
+}
+.text p{
+    color: rgb(223, 229, 229);
+    font-size: 19px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+}
+.ruyxat{
+    position: relative;
+    left: 80%;
+    gap: 32px;
+    display: flex;
+    bottom: 30px;    
+
+}
+.ruyxat a{
+    list-style-type: none;
+    font-size: 25px;
+    text-decoration: none;
+    gap: 32px;
+    width: 100px;
+    height: 35px;
+    color: rgb(223, 229, 229);
+    background-color: rgb(224, 70, 70);
+    border-radius: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.icon{
+    width: 260px;
+    position: relative;
+    top: 10px;
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+}
+.icon li{
+    list-style-type: none;
+    width: 55px;
+}
+
+
+.Yutube_icon{
+
+    width: 60px;
+} 
+
+
+/* <!-- 2 - Qism Game  --> */
+
+.Game{
+    position: absolute;
+    width: 100%;
+    height:  640px;
+    top: 100%;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,34,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+
+.Game_text{
+    position: relative;
+    align-items: center;
+    top: 50px;
+    
+}
+.Game_text h1{
+    color: antiquewhite;
+}
+
+.Video_Game{
+    position: relative;
+    left: 85px;
+    top:15px;
+}
+
+.Fan p{
+    color: antiquewhite;
+    width: 200px;
+    height: 33px;
+    text-align: center;
+    background-color: rgb(181, 69, 69);
+    left: 402px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    padding-top: 5px;
+    border-radius: 25px;
+    position: relative;
+    top: 40px;
+}
+.Game_text a{
+    text-decoration: none;
+}
+.Video {
+    display: flex;
+    gap: 200px;
+}
+.Video h3{
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Down h4{
+    color: rgb(11, 9, 8);
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.Dw_icon{
+    flex-direction: column;
+    width: 55px;
+}
+.Dw{
+    display: flex;
+    position: relative;
+    gap: 85px;
+    top: 50px;
+    right: 80px;
+    line-height: 80px;
+}
+
+/* <!-- About Game  --> */
+
+.About{
+    width: 100%;
+    height: 1600px;
+    position: relative;
+    top:32%;
+    /* background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(27, 23, 111) 0%, rgba(121,9,34,1) 35%, rgb(76, 120, 120) 100%);
+    
+
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,34,1) 35%, rgba(0,212,255,1) 100%); */
+}
+.About  h2{ 
+
+    color: rgb(237, 236, 236);
+    font-size: 36px;
+    /* position: relative; */
+    top: 300px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.Ab_gm{
+    display: flex;
+    position: relative;
+    left: 150px;
+    top: 50px;
+    gap: 100px;
+}
+
+.Ab_gm p ,.Ab_gm2 p {
+    color: rgb(204, 232, 232);
+    font-size: 22px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Ab_gm2{
+    display: flex;
+    position: relative;
+    left: 150px;
+    top: 100px;
+    gap: 100px;
+}
+.Ab_img{
+    position: relative;
+    width: 350px;
+}
+.P{
+    font-size: 22px;
+}
+.Text_And{
+    text-align: center;
+    right: 600px;
+    /* left: 0px; */
+    color: azure;
+    font-size: 23px;
+    width: 100%;
+    height: 100px;
+}
+.droid{
+    position: relative;
+    width: 100%;
+    height: 1500px;
+    top: 11%;
+}
+.Android{
+    position: relative;
+    display: flex;
+    gap: 50px;
+    left: 10%;
+}
+.Android2{
+    position: relative;
+    display: flex;
+    gap: 50px;
+    left: 10%;
+    top: 40px;
+}
+.Android2 p ,.Android p{
+    color: rgb(185, 201, 201);
+    font-size: 22px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/* **** Fixed  codes ** */
+.fix{
+    position: fixed;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    left: 90%;
+    cursor: pointer;
+    text-align: center;
+    padding-top: 7px;
+    border-radius: 15px;
+    width: 120px;
+    font-size: 15px;
+    height: 36px;
+    background-color: rgb(199, 161, 78);
+}
+
+
+/* <!-- Contack///// --> */
+.Contack{
+     width: 100%;
+    height: 550px;
+    text-align: center;
+    position: relative;
+    top: 40%;
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: azure;
+} 
